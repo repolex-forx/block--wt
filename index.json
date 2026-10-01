@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "wt",
+  "versions": [
+    {
+      "commit": "fba59e75bc130cb6f976974a979329581821c12c",
+      "tag": "main",
+      "parsed_at": "2026-10-01T09:53:45.197102+00:00"
+    }
+  ]
+}
